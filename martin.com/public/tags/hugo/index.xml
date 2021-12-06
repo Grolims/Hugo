@@ -1,41 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Accueil on Cupper</title>
-    <link>https://martin.com/</link>
-    <description>Recent content in Accueil on Cupper</description>
+    <title>hugo on Cupper</title>
+    <link>https://martin.com/tags/hugo/</link>
+    <description>Recent content in hugo on Cupper</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 26 Jun 2017 18:27:58 +0100</lastBuildDate><atom:link href="https://martin.com/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Résumé article 1</title>
-      <link>https://martin.com/r%C3%A9sum%C3%A9-article-1/</link>
-      <pubDate>Tue, 04 Aug 2020 21:05:05 -0500</pubDate>
-      
-      <guid>https://martin.com/r%C3%A9sum%C3%A9-article-1/</guid>
-      <description>Comment rendre les jeux accessibles à tous les joueurs ?</description>
-    </item>
-    
-    <item>
-      <title>Multiple Expandable Test</title>
-      <link>https://martin.com/multiple-expandable-test/</link>
-      <pubDate>Wed, 17 Jun 2020 22:01:14 -0500</pubDate>
-      
-      <guid>https://martin.com/multiple-expandable-test/</guid>
-      <description>Testing out GitHub issue https://github.com/zwbetz-gh/cupper-hugo-theme/issues/36 &amp;ndash; Multiple expandable shortcodes do not work if they have the same inner text.
-expandable 1Same inner text.expandable 2Same inner text.expandable 3Different inner text.</description>
-    </item>
-    
-    <item>
-      <title>Special Character Test</title>
-      <link>https://martin.com/special-character-test/</link>
-      <pubDate>Tue, 10 Sep 2019 20:26:08 -0500</pubDate>
-      
-      <guid>https://martin.com/special-character-test/</guid>
-      <description>Testing out GitHub issue https://github.com/zwbetz-gh/cupper-hugo-theme/issues/16
-Cette phrase prononcée par Greta Thunberg</description>
-    </item>
-    
+    <lastBuildDate>Thu, 28 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://martin.com/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Katex Math Typesetting</title>
       <link>https://martin.com/katex-math-typesetting/</link>
@@ -72,25 +43,6 @@ This will also be bold</description>
     </item>
     
     <item>
-      <title>NASA Images</title>
-      <link>https://martin.com/nasa-images/</link>
-      <pubDate>Thu, 27 Dec 2018 20:46:49 -0600</pubDate>
-      
-      <guid>https://martin.com/nasa-images/</guid>
-      <description>The below images are from the NASA Image and Video Library &amp;ndash; indulge yourself, revel in their beauty.
-The Sun is the star at the center of the Solar System. It is a nearly perfect sphere of hot plasma, with internal convective motion that generates a magnetic field via a dynamo process. It is by far the most important source of energy for life on Earth. Credits.The Moon is an astronomical body that orbits planet Earth and is Earth&amp;rsquo;s only permanent natural satellite.</description>
-    </item>
-    
-    <item>
-      <title>Quotes by Carl Jung</title>
-      <link>https://martin.com/quotes-by-carl-jung/</link>
-      <pubDate>Wed, 26 Dec 2018 00:29:41 -0600</pubDate>
-      
-      <guid>https://martin.com/quotes-by-carl-jung/</guid>
-      <description>Even a happy life cannot be without a measure of darkness, and the word happy would lose its meaning if it were not balanced by sadness. It is far better to take things as they come along with patience and equanimity.&amp;mdash; Carl Jung The least of things with a meaning is worth more in life than the greatest of things without it.&amp;mdash; Carl Jung Who looks outside, dreams; who looks inside, awakes.</description>
-    </item>
-    
-    <item>
       <title>Creating a New Theme</title>
       <link>https://martin.com/creating-a-new-theme/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
@@ -98,17 +50,6 @@ This will also be bold</description>
       <guid>https://martin.com/creating-a-new-theme/</guid>
       <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
 We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://martin.com/about/</link>
-      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://martin.com/about/</guid>
-      <description>Hugo is the world’s fastest framework for building websites. It is written in Go.
-It makes use of a variety of open source projects including:
- https://github.com/russross/blackfriday https://github.com/alecthomas/chroma https://github.com/muesli/smartcrop https://github.com/spf13/cobra https://github.com/spf13/viper  Learn more and contribute on GitHub.</description>
     </item>
     
     <item>
