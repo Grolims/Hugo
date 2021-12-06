@@ -1,1 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Categories on Cupper</title><link>https://martin.com/categories/</link><description>Recent content in Categories on Cupper</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://martin.com/categories/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Cupper</title>
+    <link>https://martin.com/categories/</link>
+    <description>Recent content in Categories on Cupper</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 04 Aug 2020 21:05:05 -0500</lastBuildDate><atom:link href="https://martin.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Accesibility</title>
+      <link>https://martin.com/categories/accesibility/</link>
+      <pubDate>Tue, 04 Aug 2020 21:05:05 -0500</pubDate>
+      
+      <guid>https://martin.com/categories/accesibility/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
