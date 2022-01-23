@@ -1,5 +1,5 @@
 ---
-title: "Cupper Shortcodes"
+title: "CLe bénéfice d'un jeu accesible"
 date: 2019-02-12T23:39:06-06:00
 tags: [hugo, shortcodes]
 toc: true
