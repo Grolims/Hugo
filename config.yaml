@@ -19,7 +19,7 @@ imaging:
 
 params:
   description: Blog pour le cours VeillTech.
-  homeMetaContent: An accessibility-friendly Hugo theme, ported from the original Cupper project.
+  homeMetaContent: Blog pour le cours VeillTech.
   footer: Copyright Martin Mertenat Themed by [Cupper](https://github.com/zwbetz-gh/cupper-hugo-theme)
   dateFormat: Jan 2, 2006
   codePenUser: someUser
