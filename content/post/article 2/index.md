@@ -17,9 +17,6 @@ La puissance du Web réside dans son universalité. L’accès pour tous indépe
 {{< /blockquote >}}
 
 
-
-
-
 ## Personne en situation de handicap
 On a tendance à associer le concept d’accessibilité uniquement aux personnes handicapées. Mais d’un côté nous sommes tous en situation de handicap. Nous avons déjà tous vécu des situations compliquées avec certaines applications ou appareils, peut-être parce que nos doigts sont trop grands pour naviguer sur un smartphone aux touches trop petites ou encore à cause d’un handicap temporaire, un doigt cassé ou un bras dans le plâtre. Cela rend des tâches très faciles à la base, extrêmement difficiles voire impossible à réaliser.
 
@@ -34,9 +31,6 @@ L’accessibilité touche tous les domaines du numérique dès lors qu’il y a 
 
 Avec différents contextes qui peuvent influencer l’accessibilité par exemple, une luminosité inadaptée ou un environnement imposant le silence comme une salle d’attente.
 
-
-
-  
 ## Quel handicap ?
 Il y a plusieurs domaines à prendre en compte lors du développement d’un produit qui peuvent induire à des problèmes d’accessibilité. Ces domaines regroupent différentes contraintes physiques, sensorielles, psychiques, temporaires ou durables.
 

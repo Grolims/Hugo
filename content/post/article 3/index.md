@@ -51,7 +51,7 @@ En plus des traditionnels claviers et souris, certains jeux se jouent via une ma
 L’aspect cognitif dans un jeu est plus important que sur un site web, pour cette raison, certaines règles doivent être obligatoirement appliquées comme la mise en place de tutoriel pour apprendre les mécaniques du jeu et l’affichage de différents astuces, aides et conseils pendant la durée de la partie. Mettre en place un moyen de s'entraîner sans échec comme un mode entrainement est également recommandé.
 
 ## Bien appliqué ?
-Pour les jeux vidéo nous reviendrons plus en détail dans un article spécifique qui démontre l’évolution de l’accessibilité et comment elle est appliquée de nos jours dans les grandes licences.
+Pour les jeux vidéo nous reviendrons plus en détail dans un [article spécifique]({{< ref "/post/article 4" >}} "art4")qui démontre l’évolution de l’accessibilité et comment elle est appliquée de nos jours dans les grandes licences.
 
 Concernant le web ce n’est pas encore ça, en Suisse pour 20% de la population l’utilisation d’internet est limitée et de nombreux sites restent difficiles d’accès comme le montre l’étude sur « L’accessibilité des boutiques en ligne » réalisée en 2020 par l’association « Accès pour tous » en partenariat avec la Confédération suisse (bureau fédéral de légalité). L’examen était basé sur les lignes directrices internationalement acceptées pour les contenus Web accessibles WCAG 2.1.
 
