@@ -2,7 +2,7 @@
 title: "Le jeu vidéo est- il accessible"
 date: 2019-02-12T23:39:06-06:00
 category: "test"
-tags: [Accessibilité, Web, Jeux vidéo]
+tags: [Accessibilité, Web, Jeu vidéo, Evolution, Gameplay, Interaction]
 toc: false
 ---
 
@@ -16,6 +16,7 @@ Depuis quelque temps déjà, les développeurs de jeux vidéo commencent à cons
 Même si les développeurs répondent à différentes problématiques concernant les jeux vidéo et les personnes en situation de handicap, le sujet manque cruellement de représentants spécialement qualifiés dans ce domaine afin d’appliquer au mieux les choix en termes de game desgin et de conception. Une autre explication sont les couts de production des jeux. La mise en place de telles mesures ou équipes, prend du temps et donc coute de l’argent, surtout si l’implémentation s’effectue en cours de route et non pas [dès le début du projet]({{< ref "/post/article 1" >}} "art1")Cependant certaines entreprises mettent en place des équipes spécialisées, comme « Ubisoft » qui invite des joueurs en situation de handicap pour le test des différentes fonctionnalités liées à l’accessibilités, ceci en collaboration avec différentes associations. 
 
 {{< youtube 6Qt595H2vRY >}}
+
 
 ## Les joueurs
 Ces dernières années on remarque une hausse de fréquentation des plateformes de streaming, Twitch par exemple. Cette croissance est bénéfique pour les joueurs en situation de handicap, car elle permet d’augmenter leur représentativité. De plus en plus de créateurs avec un handicap font leur apparition sur Twitch ou YouTube, comme « AcidCherry », une streameuse atteinte du Syndrome d'Ehlers-Danlos une maladie génétique qui affecte fortement la production de collagène dans le corps.
@@ -42,14 +43,12 @@ Pour les jeux vidéo c’est plus difficile, malgré l’existence de sites comm
 Aujourd’hui, Le domaine des jeux vidéo n’est pas encore tout à fait accessible. Comme le montre ces articles, les avancées technologiques, les progrès et les réalisations concrètes exposent un véritable changement dans l’industrie des jeux vidéo qui fait preuve d’effort et tente de casser la barrière du handicap. Un changement de mentalité dirigé vers le dépassement de soi et non le mode élitiste de certains jeux comme le montre « Céleste » et son mode assisté qui permet de réduire la difficulté sans dénature le gameplay du jeu. 
 
 Pour conclure une citation de la streameuse AcidCherry :
-
-
 {{< blockquote author="AcidCherry" >}}
 *On me dit beaucoup que je n'ai pas l'air handicapée parce que je vais sourire, rire, dire beaucoup de bêtises pendant mes jeux. Mais si les gens acceptent l'idée que c'est ça aussi le handicap - être passionné, heureux, ou rager sur son jeu comme tout le monde - ça pourrait aider à démocratiser l'accessibilité dans le jeu vidéo.*
 {{< /blockquote >}}
 
-Sources : 
+*Sources : 
 
 [Handicap et Jeu vidéo](https://www.gamekult.com/actualite/handicap-et-jeu-video-en-2020-l-accessibilite-n-est-plus-une-option-3050831221.html)
 
-[le jeu vidéo n'est aujourd'hui ni accessible, ni inclusif](https://level256.parisandco.paris/a-la-une/tendances-esport-innovation/non-le-jeu-video-n-est-aujourd-hui-ni-accessible-ni-inclusif-mais-ca-avance#_edn2)
+[le jeu vidéo n'est aujourd'hui ni accessible, ni inclusif](https://level256.parisandco.paris/a-la-une/tendances-esport-innovation/non-le-jeu-video-n-est-aujourd-hui-ni-accessible-ni-inclusif-mais-ca-avance#_edn2)*

@@ -2,7 +2,7 @@
 title: "L’accessibilité c’est quoi ?"
 date: 2019-02-12T23:39:06-06:00
 category: "test"
-tags: [Accessibilité, Web, Jeux vidéo]
+tags: [Accessibilité, Web, Inclusif, cadre légal,bonnes pratiques]
 toc: false
 ---
 

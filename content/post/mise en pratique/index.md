@@ -2,7 +2,7 @@
 title: "Mise en pratique"
 date: 2019-02-12T23:39:06-06:00
 category: "test"
-tags: [Accessibilité, Web, Jeux vidéo]
+tags: [Expérience, Jeu vidéo, Blind Legend, Aveugle]
 toc: false
 ---
 

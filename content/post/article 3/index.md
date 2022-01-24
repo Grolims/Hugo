@@ -2,7 +2,7 @@
 title: "L’accessibilité à quoi ça ressemble ?"
 date: 2019-02-12T23:39:06-06:00
 category: "test"
-tags: [Accessibilité, Web, Jeux vidéo]
+tags: [Accessibilité, Web, Jeu vidéo, application, développement]
 toc: false
 ---
 

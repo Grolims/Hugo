@@ -2,7 +2,7 @@
 title: "Le bénéfice d’un jeu accessible"
 date: 2019-02-12T23:39:06-06:00
 category: "test"
-tags: [hugo, shortcodes]
+tags: [accessibilité, handicap, jeu vidéo, UX, UI]
 toc: false
 ---
 # Le bénéfice d’un jeu accessible
@@ -46,4 +46,5 @@ Pour conclure, il est important de souligner que la vision de chaque joueur est 
 Il serait intéressant de mettre en place des modes de jeux « God mode » où la difficulté est grandement réduite afin de laisser le choix au joueur de se concentrer sur ce qu’il préfère, que ça soit l’histoire, l’exploration ou encore les combats. L’idée n'est pas de réduire la difficulté du jeu pour tout le monde, mais de prendre en compte l'ensemble des joueurs que l'on souhaite cibler afin de rendre accessible un jeu pour toutes et tous.
 
 
-Sources : [Expand your audience with game accessibility](https://gameanalytics.com/blog/how-to-expand-your-audience-with-game-accessibility/)
+*Sources :
+[Expand your audience with game accessibility](https://gameanalytics.com/blog/how-to-expand-your-audience-with-game-accessibility/)*
