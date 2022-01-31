@@ -1,6 +1,6 @@
 ---
 title: "Mise en pratique"
-date: 2019-02-12T23:39:06-06:00
+date: 2022-01-12T23:39:06-06:00
 category: "test"
 tags: [Expérience, Jeu vidéo, Blind Legend, Aveugle]
 toc: false
@@ -63,6 +63,7 @@ Cependant, la problématique de ce type de jeux est qu’ils s’adressent à un
 Concernant le lecteur d’écran expérimenté grâce au logiciel nvda et la navigation au clavier sur différents sites (Zalando et Digitec), j’ai remarqué que les difficultés venaient essentiellement des formulaires de navigations où l’on entend les champs mais on ne sait pas à quoi ils font références. Pour la navigation clavier, la présence de nombreux filtres et sous- menus rendent très contraignants la navigation. Il est parfois même très difficile voire impossible de sortir d’un menu pour revenir à l’accueil. Une autre difficulté que j’ai éprouvée est que sans le lecteur d’écran, j’ai de la peine à me repérer sur le site dû au manque de clarté du lien ou du menu sélectionné, le focus du clavier est invisible et on se perd dans la navigation.
 
 Il faut bien entendu un temps d’adaptation avant de connaitre les différents raccourcis et d’appréhender la navigation au clavier. Cela prend beaucoup plus de temps et demande plus d’effort que de naviguer de manière traditionnelle avec une souris. Cependant après avoir tester la navigation sur deux sites e-commerce et éprouvé beaucoup de frustration, il est nettement plus simple de naviguer par exemple sur ce blog, qui dispose d’un seul menu et de différents titres pour naviguer facilement entre les articles.
+
 Si vous désirez vous rendre compte des difficultés que j’ai éprouvées lors de cette expérimentation, je vous conseille de tester la navigation clavier et de jouer à [Accesibillity Maze](https://de.ryerson.ca/games/accessibility/#/) un petit jeu en ligne vainqueur du « WebForAll 2021 Accessibility Challenge Award » qui permet de se familiariser avec la navigation au clavier et de mieux comprendre les enjeux et les principes de l'accessibilité numérique. 
 
 

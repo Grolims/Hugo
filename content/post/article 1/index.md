@@ -1,6 +1,6 @@
 ---
 title: "Le bénéfice d’un jeu accessible"
-date: 2019-02-12T23:39:06-06:00
+date: 2022-01-12T23:39:06-06:00
 category: "test"
 tags: [accessibilité, handicap, jeu vidéo, UX, UI]
 toc: false

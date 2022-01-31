@@ -1,6 +1,6 @@
 ---
 title: "L’accessibilité c’est quoi ?"
-date: 2019-02-12T23:39:06-06:00
+date: 2022-01-12T23:39:06-06:00
 category: "test"
 tags: [Accessibilité, Web, Inclusif, cadre légal,bonnes pratiques]
 toc: false
@@ -58,10 +58,10 @@ Et la loi sur l’égalité pour les handicapés (Lhand) a pour but de prévenir
 Lors de la mise en place de différents produits, il est donc essentiel de mettre en place des solutions pour les différents handicaps cités ci-dessus. Il est important d’avoir en tête ces concept au début de la planification du projet et de les garder jusqu’à la fin du développement. Si ces concepts sont mis en place au départ, ils seront plus faciles à développer et à tester par la suite.
 
 
-*Sources : 
+Sources : 
 
 [Usabillis](https://www.usabilis.com/accessibilite-numerique/)
 
 [Interaction-design](https://www.interaction-design.org/literature/article/accessibility-usability-for-all)
 
-[Communication numerique accessible](https://www.edi.admin.ch/edi/fr/home/fachstellen/bfeh/themes-de-l-egalite/e-accessibility-/communicationnumeriqueaccessible2.html)*
+[Communication numerique accessible](https://www.edi.admin.ch/edi/fr/home/fachstellen/bfeh/themes-de-l-egalite/e-accessibility-/communicationnumeriqueaccessible2.html)

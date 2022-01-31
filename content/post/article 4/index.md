@@ -1,6 +1,6 @@
 ---
 title: "Le jeu vidéo est- il accessible"
-date: 2019-02-12T23:39:06-06:00
+date: 2022-01-12T23:39:06-06:00
 category: "test"
 tags: [Accessibilité, Web, Jeu vidéo, Evolution, Gameplay, Interaction]
 toc: false
@@ -13,7 +13,7 @@ Maintenant que nous avons déterminé l’accessibilité et son application sur 
 Depuis quelque temps déjà, les développeurs de jeux vidéo commencent à considérer les questions de handicap, d’accessibilité et d’inclusion dans le domaine des jeux vidéo. Comme on peut le voir dans le dernier « Last of Us » où un sous-menu est présent dans les paramètres sous le nom d’ « Accessibilités ». Mais cette prise de consciences et ces récentes applications peuvent véritablement rendre les jeux vidéo accessibles et inclusifs ?
 
 ## l'industrie
-Même si les développeurs répondent à différentes problématiques concernant les jeux vidéo et les personnes en situation de handicap, le sujet manque cruellement de représentants spécialement qualifiés dans ce domaine afin d’appliquer au mieux les choix en termes de game desgin et de conception. Une autre explication sont les couts de production des jeux. La mise en place de telles mesures ou équipes, prend du temps et donc coute de l’argent, surtout si l’implémentation s’effectue en cours de route et non pas [dès le début du projet]({{< ref "/post/article 1" >}} "art1")
+Même si les développeurs répondent à différentes problématiques concernant les jeux vidéo et les personnes en situation de handicap, le sujet manque cruellement de représentants spécialement qualifiés dans ce domaine afin d’appliquer au mieux les choix en termes de game desgin et de conception. Une autre explication sont les couts de production des jeux. La mise en place de telles mesures ou équipes, prend du temps et donc coute de l’argent, surtout si l’implémentation s’effectue en cours de route et non pas [dès le début du projet]({{< ref "/post/article 1" >}} "art1").
 
 Cependant certaines entreprises mettent en place des équipes spécialisées, comme « Ubisoft » qui invite des joueurs en situation de handicap pour le test des différentes fonctionnalités liées à l’accessibilités, ceci en collaboration avec différentes associations. 
 
@@ -59,8 +59,8 @@ Pour conclure une citation de la streameuse AcidCherry :
 *On me dit beaucoup que je n'ai pas l'air handicapée parce que je vais sourire, rire, dire beaucoup de bêtises pendant mes jeux. Mais si les gens acceptent l'idée que c'est ça aussi le handicap - être passionné, heureux, ou rager sur son jeu comme tout le monde - ça pourrait aider à démocratiser l'accessibilité dans le jeu vidéo.*
 {{< /blockquote >}}
 
-*Sources : 
+Sources : 
 
 [Handicap et Jeu vidéo](https://www.gamekult.com/actualite/handicap-et-jeu-video-en-2020-l-accessibilite-n-est-plus-une-option-3050831221.html)
 
-[le jeu vidéo n'est aujourd'hui ni accessible, ni inclusif](https://level256.parisandco.paris/a-la-une/tendances-esport-innovation/non-le-jeu-video-n-est-aujourd-hui-ni-accessible-ni-inclusif-mais-ca-avance#_edn2)*
+[le jeu vidéo n'est aujourd'hui ni accessible, ni inclusif](https://level256.parisandco.paris/a-la-une/tendances-esport-innovation/non-le-jeu-video-n-est-aujourd-hui-ni-accessible-ni-inclusif-mais-ca-avance#_edn2)
