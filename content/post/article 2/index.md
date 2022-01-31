@@ -2,7 +2,7 @@
 title: "L’accessibilité c’est quoi ?"
 date: 2022-01-12T23:39:06-06:00
 category: "test"
-tags: [Accessibilité, Web, Inclusif, cadre légal,bonnes pratiques]
+tags: [Accessibilité, Web, Inclusif, Cadre légal,Bonnes pratiques]
 toc: false
 ---
 
