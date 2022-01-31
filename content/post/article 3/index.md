@@ -34,11 +34,11 @@ Afin de se rappeler les points principaux de l’accessibilité sur le web, voic
 * **Robust:** le contenu doit être adapté pour de nombreuses technologies (smartphone, lecteur écran, tv).
 * **Conformance:** le contenu doit toujours être accessible malgré l’évolution des technologies, par exemple compatibilité avec les technologies d’assistance.
 
-D’autre recommandations plus spécifiques sont disponibles sur le site du W3c dans le document « Web Content Accessibility Guidelines (WCAG) 2.0 »
+D’autre recommandations plus spécifiques sont disponibles sur le site du W3C dans le document « [Web Content Accessibility Guidelines (WCAG) 2.0](https://www.w3.org/TR/WCAG20/)»
 
 
 ## Dans les jeux vidéo
-Pour les jeux vidéo c’est plus difficile, malgré l’existence de sites comme « Can in play that » qui fournit des guides articles et témoignages sur l’accessibilité dans jeux vidéo. L’accessibilité dans les jeux n’est pas autant normée que sur le web. Il existe cependant un guide sur lequel je vais m’appuyer pour cet article, les « Game accessibility guidelines »
+Pour les jeux vidéo c’est plus difficile, malgré l’existence de sites comme « Can in play that » qui fournit des guides articles et témoignages sur l’accessibilité dans jeux vidéo. L’accessibilité dans les jeux n’est pas autant normée que sur le web. Il existe cependant un guide sur lequel je vais m’appuyer pour cet article, les « [Game accessibility guidelines](https://gameaccessibilityguidelines.com/) »
 
 ### Son et image
 Ce sont des recommandations similaires que celles misent en place pour les sites web. Les contrastes, la taille de la police visible et aucune information essentielle transmise seulement par l’image ou le son, notamment pour les éléments qui demandent une interaction. La mise en place de sous-titres et de gestion de volume séparée est aussi nécessaire.
@@ -52,7 +52,7 @@ L’aspect cognitif dans un jeu est plus important que sur un site web, pour cet
 ## Bien appliqué ?
 Pour les jeux vidéo nous reviendrons plus en détail dans un [article spécifique]({{< ref "/post/article 4" >}} "art4") qui démontre l’évolution de l’accessibilité et comment elle est appliquée de nos jours dans les grandes licences.
 
-Concernant le web ce n’est pas encore ça, en Suisse pour 20% de la population l’utilisation d’internet est limitée et de nombreux sites restent difficiles d’accès comme le montre l’étude sur « L’accessibilité des boutiques en ligne » réalisée en 2020 par l’association « Accès pour tous » en partenariat avec la Confédération suisse (bureau fédéral de légalité). L’examen était basé sur les lignes directrices internationalement acceptées pour les contenus Web accessibles WCAG 2.1.
+Concernant le web ce n’est pas encore ça, en Suisse pour 20% de la population l’utilisation d’internet est limitée et de nombreux sites restent difficiles d’accès comme le montre l’étude sur « L’accessibilité des boutiques en ligne » réalisée en 2020 par l’association « Accès pour tous » en partenariat avec la Confédération suisse (bureau fédéral de légalité). L’examen était basé sur les lignes directrices internationalement acceptées pour les contenus Web accessibles [WCAG 2.1](https://www.w3.org/TR/WCAG21/).
 
 Seulement 10 boutiques sur 41 sont totalement accessibles pour les personnes en situation de handicap et 14 boutiques en ligne, soit 34 %, excluent totalement les personnes handicapées de l’utilisation. 
 

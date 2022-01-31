@@ -27,7 +27,9 @@ Cette apparition de joueurs en situation de handicap permet de sensibiliser les 
 
 
 ## Et l’Esport ?
-Malgré le fait qu’il existe des joueurs professionnels handicapés comme Jennifer « Amelitha » Gomesun, atteinte d’une paralysie du bras et de la main droite depuis la naissance et joueuse « Street Fighte »r pour « Heilos Unity ». Le sport électronique qui n’exclut personne par rapport à sa capacité à participer est encore difficile d’accès. La cause est notamment due au règlement très strict qui interdit un matériel spécifique mais nécessaire pour certaines personnes dans le cadre de leur pratique vidéoludique.  Mais aussi d’un point de vue organisationnel, la mise en place d’un aménagement adapté comme l’accessibilité de la communication, des interprètes pour la langue des signes, une signalétique renforcée et une infrastructure adaptée pour les fauteuils roulants.
+Malgré le fait qu’il existe des joueurs professionnels handicapés comme Jennifer « Amelitha » Gomesun, atteinte d’une paralysie du bras et de la main droite depuis la naissance et joueuse « Street Fighter » pour « Heilos Unity ». Le sport électronique qui n’exclut personne par rapport à sa capacité à participer est encore difficile d’accès. La cause est notamment due au règlement très strict qui interdit un matériel spécifique mais nécessaire pour certaines personnes dans le cadre de leur pratique vidéoludique.  
+
+Mais aussi d’un point de vue organisationnel, la mise en place d’un aménagement adapté comme l’accessibilité de la communication, des interprètes pour la langue des signes, une signalétique renforcée et une infrastructure adaptée pour les fauteuils roulants.
 
 Malgré ses défauts l’Esport est alternative au sport traditionnel. L’expérience vécue est très souvent enrichissante pour les joueurs et permet plus de possibilité que dans le sport traditionnel, les barrières tombent plus facilement grâce à une communauté très souvent ouverte d’esprit.
 
