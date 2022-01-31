@@ -26,14 +26,14 @@ La multitude de plateformes (console, smartphone ou PC), change radicalement la 
 
   {{< figureCupper
 img="hades.jpeg" 
-caption="Exemple avec le jeu Hades ou les paramètres permettent d'ajuster le volume, les vibrations ainsi que les secousses de l'écran. Ces deux options sont essentielles pour les personnes souffrant de handicaps physiques et cognitifs, les sous tire sont eux activer par défaut"  
+caption="Exemple avec le jeu Hades ou les paramètres permettent d'ajuster le volume, les vibrations ainsi que les secousses de l'écran. Ces deux options sont essentielles pour les personnes souffrant de handicaps physiques et cognitifs, les sous-titres sont eux activés par défaut"  
 command="Original">}}
 
 
 ## Des guides 
 Maintenant que l’article m’a fait comprendre pourquoi l’accessibilité des jeux est importante, il est temps de s’intéresser à plusieurs ressources en ligne qui permettent d’appliquer les bonnes pratiques dans la création de jeux vidéo et comment améliorer au mieux l’accessibilité.
-**The Game Accessibility Guidelines** : une liste de fonctionnalités organisées en 3 catégories des plus faciles à mettre en place au plus difficiles.
-**The AbleGamers Includification guide** : un guide   pour les développeurs qui concerne l’accessibilité pour les personnes en situation de handicap dans le domaine des jeux vidéo.
+* **[The Game Accessibility Guidelines](https://gameaccessibilityguidelines.com/)** : une liste de fonctionnalités organisées en 3 catégories des plus faciles à mettre en place au plus difficiles.
+* **[The AbleGamers Includification guide](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiju8ygqtz1AhX0_7sIHeqNCrYQFnoECA0QAQ&url=https%3A%2F%2Faccessible.games%2Fwp-content%2Fuploads%2F2018%2F11%2FAbleGamers_Includification.pdf&usg=AOvVaw2Zjz18PYPlcGQSf9rTbJ7n)** : un guide   pour les développeurs qui concerne l’accessibilité pour les personnes en situation de handicap dans le domaine des jeux vidéo.
 
 
 ## Toujours tester

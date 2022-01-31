@@ -13,7 +13,9 @@ Maintenant que nous avons déterminé l’accessibilité et son application sur 
 Depuis quelque temps déjà, les développeurs de jeux vidéo commencent à considérer les questions de handicap, d’accessibilité et d’inclusion dans le domaine des jeux vidéo. Comme on peut le voir dans le dernier « Last of Us » où un sous-menu est présent dans les paramètres sous le nom d’ « Accessibilités ». Mais cette prise de consciences et ces récentes applications peuvent véritablement rendre les jeux vidéo accessibles et inclusifs ?
 
 ## l'industrie
-Même si les développeurs répondent à différentes problématiques concernant les jeux vidéo et les personnes en situation de handicap, le sujet manque cruellement de représentants spécialement qualifiés dans ce domaine afin d’appliquer au mieux les choix en termes de game desgin et de conception. Une autre explication sont les couts de production des jeux. La mise en place de telles mesures ou équipes, prend du temps et donc coute de l’argent, surtout si l’implémentation s’effectue en cours de route et non pas [dès le début du projet]({{< ref "/post/article 1" >}} "art1")Cependant certaines entreprises mettent en place des équipes spécialisées, comme « Ubisoft » qui invite des joueurs en situation de handicap pour le test des différentes fonctionnalités liées à l’accessibilités, ceci en collaboration avec différentes associations. 
+Même si les développeurs répondent à différentes problématiques concernant les jeux vidéo et les personnes en situation de handicap, le sujet manque cruellement de représentants spécialement qualifiés dans ce domaine afin d’appliquer au mieux les choix en termes de game desgin et de conception. Une autre explication sont les couts de production des jeux. La mise en place de telles mesures ou équipes, prend du temps et donc coute de l’argent, surtout si l’implémentation s’effectue en cours de route et non pas [dès le début du projet]({{< ref "/post/article 1" >}} "art1")
+
+Cependant certaines entreprises mettent en place des équipes spécialisées, comme « Ubisoft » qui invite des joueurs en situation de handicap pour le test des différentes fonctionnalités liées à l’accessibilités, ceci en collaboration avec différentes associations. 
 
 {{< youtube 6Qt595H2vRY >}}
 
@@ -36,11 +38,21 @@ Il existe différents appareils créés sur mesure en fonction du handicap comme
 
 Tout n’est pas négatif, depuis peu des grandes entreprises comme Microsoft ou Logitech s’intéressent à cette problématique et développent différents outils en partenariat avec des joueurs et joueuses en situation de handicap, des associations et du corps médical. Par exemple le kit adaptatif Logitech ou la manette Xbox adaptive Controller, une manette adaptative conçue par Microsoft.
 
+  {{< figureCupper
+img="xbox.jpg" 
+caption="Le controleur Xbox adaptive controller"  
+command="Original">}}
+
 
 ## Pour conclure
 Pour les jeux vidéo c’est plus difficile, malgré l’existence de sites comme « Can in play that » qui fournit des guides articles et témoignages sur l’accessibilité dans jeux vidéo. L’accessibilité dans les jeux n’est pas autant normée que sur le web. Il existe cependant un guide sur lequel je vais m’appuyer pour cet article, les « Game accessibility guidelines »
 
-Aujourd’hui, Le domaine des jeux vidéo n’est pas encore tout à fait accessible. Comme le montre ces articles, les avancées technologiques, les progrès et les réalisations concrètes exposent un véritable changement dans l’industrie des jeux vidéo qui fait preuve d’effort et tente de casser la barrière du handicap. Un changement de mentalité dirigé vers le dépassement de soi et non le mode élitiste de certains jeux comme le montre « Céleste » et son mode assisté qui permet de réduire la difficulté sans dénature le gameplay du jeu. 
+Aujourd’hui, Le domaine des jeux vidéo n’est pas encore tout à fait accessible. Comme le montre ces articles, les avancées technologiques, les progrès et les réalisations concrètes exposent un véritable changement dans l’industrie des jeux vidéo qui fait preuve d’effort et tente de casser la barrière du handicap. Un changement de mentalité dirigé vers le dépassement de soi et non le mode élitiste de certains jeux comme le montre « Céleste » et son mode assisté qui permet de réduire la difficulté sans dénature le gameplay du jeu.
+
+  {{< figureCupper
+img="celeste.jpg" 
+caption="Mode assisté Celeste"  
+command="Original">}}
 
 Pour conclure une citation de la streameuse AcidCherry :
 {{< blockquote author="AcidCherry" >}}

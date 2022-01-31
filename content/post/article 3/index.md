@@ -7,8 +7,7 @@ toc: false
 ---
 
 # L’accessibilité à quoi ça ressemble ?
-Maintenant que nous avons déterminer ce qu’est l’accessibilité et quels en sont les bénéfices, il est temps de s’intéresser à comment sa mise en place.
-
+Maintenant que nous avons déterminé ce qu’est l’accessibilité et quels en sont les bénéfices, il est temps de s’intéresser à comment la mettre en place.
 
 ## Sur le web
 Sur le web l’accessibilité ne concerne pas uniquement les personnes présentant un handicap mais aussi les différentes plateformes mobiles, télévisions, montres connectées ou encore les connexions internet lentes ou ayant une bande passante limitée.
@@ -18,7 +17,7 @@ Sur le web l’accessibilité ne concerne pas uniquement les personnes présenta
 Il est important de savoir que les personnes malvoyantes utilisent, par exemple des lecteurs d’écran ou des liseuses en braille. Il est donc nécessaire de mettre en place des alternatives textuelle pour les images et les logos (attribut ARIA). Idem pour les fichiers audios pour les personnes malentendantes ou l’ajout d’une transcription textuelle est nécessaire. De plus tous les champs du site web doivent être décrits afin d’être retranscrits via un lecteur de site.
 
 ### Structure
-La mise en place du site doit être structurée de manière sémantique avec les bon titres (h1 h2) ainsi que des listes ou des lignes, colonnes pour les tableaux et des labels pour les formulaires. Dans le but de facilité le parcours du site avec un lecteur d’écran.
+La mise en place du site doit être structurée de manière sémantique avec les bons titres (h1 h2) ainsi que des listes ou des lignes, colonnes pour les tableaux et des labels pour les formulaires. Dans le but de faciliter le parcours du site avec un lecteur d’écran.
 
 ### Saisie au clavier
 Certains handicaps moteurs empêchent les personnes de naviguer de manière conventionnelle sur un site ou une application web, il est donc essentiel que le site soit complètement navigable au clavier.
@@ -51,17 +50,23 @@ En plus des traditionnels claviers et souris, certains jeux se jouent via une ma
 L’aspect cognitif dans un jeu est plus important que sur un site web, pour cette raison, certaines règles doivent être obligatoirement appliquées comme la mise en place de tutoriel pour apprendre les mécaniques du jeu et l’affichage de différents astuces, aides et conseils pendant la durée de la partie. Mettre en place un moyen de s'entraîner sans échec comme un mode entrainement est également recommandé.
 
 ## Bien appliqué ?
-Pour les jeux vidéo nous reviendrons plus en détail dans un [article spécifique]({{< ref "/post/article 4" >}} "art4")qui démontre l’évolution de l’accessibilité et comment elle est appliquée de nos jours dans les grandes licences.
+Pour les jeux vidéo nous reviendrons plus en détail dans un [article spécifique]({{< ref "/post/article 4" >}} "art4") qui démontre l’évolution de l’accessibilité et comment elle est appliquée de nos jours dans les grandes licences.
 
 Concernant le web ce n’est pas encore ça, en Suisse pour 20% de la population l’utilisation d’internet est limitée et de nombreux sites restent difficiles d’accès comme le montre l’étude sur « L’accessibilité des boutiques en ligne » réalisée en 2020 par l’association « Accès pour tous » en partenariat avec la Confédération suisse (bureau fédéral de légalité). L’examen était basé sur les lignes directrices internationalement acceptées pour les contenus Web accessibles WCAG 2.1.
 
 Seulement 10 boutiques sur 41 sont totalement accessibles pour les personnes en situation de handicap et 14 boutiques en ligne, soit 34 %, excluent totalement les personnes handicapées de l’utilisation. 
+
 Les problèmes récurrents sont :
+
 * L’utilisabilité du clavier pour naviguer sur le site où différentes catégories ne sont plus accessibles et certaines options seulement applicables avec la souris.
  
 * L’assistance aux interactions avec des informations de retour non accessibles pour les saisies incorrectes de formulaires.
  
 * Le contenu non textuel images ou logos ne possède pas de texte alternatif.
+
+### Conclusion
+Malgré des règles spécifiques bien règlementées, on peut voir que l’accessibilité n’est pas une préoccupation majeure des différents sites de vente en ligne. Il est préoccupant de constater que de nombreux site sont difficiles, voire impossibles d’accès pour des personnes présentant un handicap. J’espère que grâce à ce genre d’étude les différents acteurs seront sensibilisés et prendront conscience de cette problématique afin de mettre en place les outils nécessaires dans le but de donner accès aux ressources numériques pour tous, indépendamment du handicap physique, mental ou sensoriel.
+
 
 
 Sources : 
